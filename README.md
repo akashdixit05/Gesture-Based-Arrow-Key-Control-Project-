@@ -38,7 +38,7 @@
 
 ## Clone this repository:
 
-    git clone https://github.com/your-username/hand-gesture-swipe-control.git
+    git clone https://github.com/akashdixit05/Gesture-Based-Arrow-Key-Control-Project.git
     cd hand-gesture-swipe-control
 
 
